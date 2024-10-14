@@ -20,7 +20,7 @@ Three.js makes it easy for developers to create rich, interactive 3D experiences
 - **Lighting Models**: Three.js supports different types of lights such as ambient, point, directional, and spotlights.
 - **Customizable Camera Views**: Use perspectives, orthographic cameras, and even custom controls.
 
-![Three.js Example Image](assets/threejs-example.png)  <!-- Add a real image showcasing a Three.js project here -->
+![Three.js Example Image](three-js.jpg)  <!-- This is your Three.js image from the repo -->
 
 ## Three.js Basic Structure
 
