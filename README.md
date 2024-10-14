@@ -5,12 +5,12 @@ Welcome to the **Three.js Educational Hub**! This repository is dedicated to hos
 ## 🎉 Open Source Events We're Part of!
 
 ### Hacktoberfest 2024
-![Hacktoberfest](https://hacktoberfest.com/_nuxt/img/hacktoberfest-logo-dark.8f36b36.svg)
+![Hacktoberfest](hacktoberfest.png)
 
 We are excited to be a part of **Hacktoberfest 2024**, a month-long celebration of open-source contributions. Throughout October, anyone can contribute to open-source projects and earn awesome swag by making quality pull requests!
 
 - **What is Hacktoberfest?**  
-  Hacktoberfest is a celebration of open source software that encourages people from all over the world to contribute to open-source projects on GitHub. Whether you’re a seasoned developer or just starting, it's a fantastic opportunity to give back to the community.
+  Hacktoberfest is a celebration of open-source software that encourages people from all over the world to contribute to open-source projects on GitHub. Whether you’re a seasoned developer or just starting, it's a fantastic opportunity to give back to the community.
   
 - **How to Participate?**  
   1. Fork this repository.
@@ -21,7 +21,7 @@ We are excited to be a part of **Hacktoberfest 2024**, a month-long celebration 
 Learn more about Hacktoberfest [here](https://hacktoberfest.com).
 
 ### GirlScript Summer of Code (GSSoC)
-![GSSoC](https://girlscript.tech/assets/images/logo/logo1.png)
+![GSSoC](GSsoc%20Type%20Logo%20Black.png)
 
 This repository is also part of **GirlScript Summer of Code (GSSoC)**, a 3-month-long open-source program where students can contribute to real-world projects. Whether you are a beginner or an experienced coder, GSSoC provides mentorship and opportunities to sharpen your coding skills while contributing to the open-source ecosystem.
 
