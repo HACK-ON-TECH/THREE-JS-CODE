@@ -1,0 +1,63 @@
+@import "tailwindcss";
+
+.freedom-font{
+  font-family: 'PP Forever Freedom', sans-serif;
+}
+
+html, body {
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden;
+  scrollbar-width: none; 
+  -ms-overflow-style: none; 
+}
+
+body::-webkit-scrollbar {
+  display: none; 
+}
+
+
+#root {
+  margin: 0;
+  padding: 0;
+}
+
+.video-scroll-section {
+  position: relative;
+  height: 100vh;
+  width: 100%;
+  overflow: hidden;
+}
+
+.scroll-video {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  object-fit: cover;
+}
+
+.video-overlay-text {
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 100%;
+  height: 100%;
+  display: flex;
+  flex-direction: column;
+  justify-content: center;
+  align-items: center;
+  color: white;
+  z-index: 10;
+  pointer-events: none; /* Allows clicks to pass through to video */
+  padding: 20px;
+  text-align: center;
+}
+
+.regular-content {
+  position: relative;
+  z-index: 20;
+  background: white;
+  padding: 40px;
+}
