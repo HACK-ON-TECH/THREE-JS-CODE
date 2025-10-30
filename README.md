@@ -1,5 +1,6 @@
 # Three.js Educational Hub
 
+
 Welcome to the **Three.js Educational Hub**! This repository is dedicated to hosting educational content and projects built with Three.js. Whether you are learning the basics or showcasing your advanced Three.js projects, this is the place to collaborate, contribute, and get inspired!
 
 # Three.js Educational Hub
